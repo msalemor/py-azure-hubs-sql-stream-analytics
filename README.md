@@ -1,0 +1,1 @@
+# py-azure-hubs-sql-stream-analytics
